@@ -18,14 +18,7 @@ class App extends Component{
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <span>Hi {this.state.name}</span>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+     <button>Click Me</button>
       </header>
     </div>
   );
